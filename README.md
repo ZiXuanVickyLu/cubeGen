@@ -31,7 +31,7 @@
   - the right cube follows arguments ‘./cubeGen <Your path> 2 4 6 ‘
   - theses cube can also use : ‘./cubeGen <Your path> x z y -s 1 1 1 -m 0 0 0 ‘ , either ‘-s 1 1 1 ‘ or ‘ -m 0 0 0 ’  is omissible. 
 
-<img src="./figs/cube444.PNG" alt="image-cube444" style="zoom:30%;" /><img src="./figs/cube246.PNG" alt="image-cube444" style="zoom:45%;" />
+<img src="./figs/cube.png" alt="image-cube" style="zoom:70%;" />
 
 
 
