@@ -39,8 +39,8 @@
 
 <img src="./figs/p1.png" alt="image-cube444" style="zoom:100%;" />
 
-- The coordinate system: cubGen use viewport coordinates shows in **figure 1** .
-- A single cube vertexs distribution : shown on **figure 1** .
+- The coordinate system: cubGen uses viewport coordinate shown in **figure 1** .
+- A single cube vertexs distribution : shown in **figure 1** .
 - Elements - vertex mapping : shown on **figure 2** .
-- cubeGen order the cubes in ‘ x - z - y ’ order, which means that in a viewport coordinate, cubes are heaped up by length, width, height direction. **Figure 4** show the heaping up procedure.
-- Vertex order : Due to the heaping up order, the vertex are growing follow these order too. For inner cube, only one vertex is adding up when heaped up, like cube 8 (**Figure 4.8**) and the adding up vertex 27. For the extra vertex caused by boundary effect, the vertex adding up order are shown in **figure 3**.   
+- cubeGen orders the cubes in ‘ x - z - y ’ order, which means that in a viewport coordinate, cubes are heaped up by length, width, height directions. **Figure 4** shows the heaping up procedure.
+- Vertex order : Due to the heaping up order, the vertexs are growing follow these orders too. For inner cube, only one vertex is adding up when heaped up, like cube 8 (**Figure 4.8**) and the adding up vertex 27. For the extra vertexs caused by boundary effect, the vertex adding up order is shown in **figure 3**.   
